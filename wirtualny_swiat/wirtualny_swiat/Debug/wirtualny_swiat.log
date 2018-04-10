@@ -1,0 +1,28 @@
+﻿Build started 2016-05-16 19:47:18.
+     1>Project "C:\Users\Sunnivran\Desktop\Studia\Semestr II\Projekty\PO1\wirtualny_swiat\wirtualny_swiat\wirtualny_swiat.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Programy\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt swiat.cpp
+         swiat.cpp
+       Link:
+         C:\Programy\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sunnivran\Desktop\Studia\Semestr II\Projekty\PO1\wirtualny_swiat\Debug\wirtualny_swiat.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sunnivran\Desktop\Studia\Semestr II\Projekty\PO1\wirtualny_swiat\Debug\wirtualny_swiat.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sunnivran\Desktop\Studia\Semestr II\Projekty\PO1\wirtualny_swiat\Debug\wirtualny_swiat.lib" /MACHINE:X86 Debug\antylopa.obj
+         Debug\conio2.obj
+         Debug\czlowiek.obj
+         Debug\guarana.obj
+         Debug\lis.obj
+         Debug\main.obj
+         Debug\mlecz.obj
+         Debug\organizm.obj
+         Debug\owca.obj
+         Debug\roslina.obj
+         Debug\swiat.obj
+         Debug\trawa.obj
+         Debug\wilcze_jagody.obj
+         Debug\wilk.obj
+         Debug\zolw.obj
+         Debug\zwierze.obj
+         wirtualny_swiat.vcxproj -> C:\Users\Sunnivran\Desktop\Studia\Semestr II\Projekty\PO1\wirtualny_swiat\Debug\wirtualny_swiat.exe
+     1>Done Building Project "C:\Users\Sunnivran\Desktop\Studia\Semestr II\Projekty\PO1\wirtualny_swiat\wirtualny_swiat\wirtualny_swiat.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.96
